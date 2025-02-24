@@ -25,6 +25,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <Header />
+<script type='text/javascript' src='//pl25953269.effectiveratecpm.com/38/42/8d/38428d7a7bd9a8e0d8738bdf93635186.js'></script>
           <main className="min-h-screen">{children}</main>
           <Footer />
         </ThemeProvider>
