@@ -92,6 +92,7 @@ export default function Home() {
       <section className="py-20 text-center">
         <motion.div initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.5 }}>
           <h1 className="text-5xl font-bold mb-6 gradient-text">Welcome to Vinayak Computer</h1>
+   <Link href={"https://filthyrankscuffle.com/rr3w2b8f51?key=e91cf1fc1a009742ceedbb5c32d6c08c"}>Click on for Watch add</Link>
           <p className="text-xl mb-8 text-muted-foreground">Your one-stop solution for software and computer parts</p>
           <Link href="/services">
             <Button size="lg" className="rounded-full">

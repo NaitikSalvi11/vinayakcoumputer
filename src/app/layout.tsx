@@ -27,7 +27,16 @@ export default function RootLayout({
           <Header />
 <script type='text/javascript' src='//pl25953269.effectiveratecpm.com/38/42/8d/38428d7a7bd9a8e0d8738bdf93635186.js'></script>
 <script type='text/javascript' src='//filthyrankscuffle.com/4d/fb/cd/4dfbcd7ebd44882954411049660bb136.js'></script>
-
+<script type="text/javascript">
+	atOptions = {
+		'key' : 'b0b056287f7e61dc320b7ff62a6b8741',
+		'format' : 'iframe',
+		'height' : 60,
+		'width' : 468,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//filthyrankscuffle.com/b0b056287f7e61dc320b7ff62a6b8741/invoke.js"></script>
           <main className="min-h-screen">{children}</main>
           <Footer />
         </ThemeProvider>
