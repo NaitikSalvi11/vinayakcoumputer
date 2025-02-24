@@ -26,6 +26,8 @@ export default function RootLayout({
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <Header />
 <script type='text/javascript' src='//pl25953269.effectiveratecpm.com/38/42/8d/38428d7a7bd9a8e0d8738bdf93635186.js'></script>
+<script type='text/javascript' src='//filthyrankscuffle.com/4d/fb/cd/4dfbcd7ebd44882954411049660bb136.js'></script>
+
           <main className="min-h-screen">{children}</main>
           <Footer />
         </ThemeProvider>
