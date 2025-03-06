@@ -22,12 +22,14 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" suppressHydrationWarning>
-  <head><script type='text/javascript' src='//filthyrankscuffle.com/4d/fb/cd/4dfbcd7ebd44882954411049660bb136.js'></script></head>
+  <head>
+{/* <script type='text/javascript' src='//filthyrankscuffle.com/4d/fb/cd/4dfbcd7ebd44882954411049660bb136.js'></script> */}
+</head>
       <body className={inter.className}>
         <ThemeProvider attribute="class" defaultTheme="system" enableSystem disableTransitionOnChange>
           <Header />
-<script type='text/javascript' src='//pl25953269.effectiveratecpm.com/38/42/8d/38428d7a7bd9a8e0d8738bdf93635186.js'></script>
-<script type="text/javascript" src="//filthyrankscuffle.com/b0b056287f7e61dc320b7ff62a6b8741/invoke.js"></script>
+{/* <script type='text/javascript' src='//pl25953269.effectiveratecpm.com/38/42/8d/38428d7a7bd9a8e0d8738bdf93635186.js'></script>
+<script type="text/javascript" src="//filthyrankscuffle.com/b0b056287f7e61dc320b7ff62a6b8741/invoke.js"></script> */}
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5263029045860934"
      crossorigin="anonymous"></script>
           <main className="min-h-screen">{children}</main>
