@@ -32,15 +32,7 @@ export default function RootLayout({
 <script type="text/javascript" src="//filthyrankscuffle.com/b0b056287f7e61dc320b7ff62a6b8741/invoke.js"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5263029045860934"
      crossorigin="anonymous"></script>
-<script type="text/javascript">
-	atOptions = {
-		'key' : 'b0b056287f7e61dc320b7ff62a6b8741',
-		'format' : 'iframe',
-		'height' : 60,
-		'width' : 468,
-		'params' : {}
-	};
-</script>
+
 <script type="text/javascript" src="//filthyrankscuffle.com/b0b056287f7e61dc320b7ff62a6b8741/invoke.js"></script>
 
 <script async="async" data-cfasync="false" src="//filthyrankscuffle.com/2fb0e99641d4f37613ff4650d31f3cdd/invoke.js"></script>
